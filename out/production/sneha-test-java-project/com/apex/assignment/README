@@ -1,0 +1,14 @@
+Explore the option of ‘java’ and ‘javac’ commands?
+
+Java command:
+    The java command runs a Java program from a command prompt.
+    The basic syntax is java filename [options] When you run the java command,
+    the JRE is loaded along with the class you specify. Then, the main method of
+    that class is executed.
+
+
+Javac command:
+    The javac command in Java compiles a program from a command prompt.
+    It reads a Java source program from a text file and creates a compiled Java class file.
+    The basic form of the javac command is javac filename [options]
+
